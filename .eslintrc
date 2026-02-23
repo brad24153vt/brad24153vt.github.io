@@ -1,0 +1,37 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": ["prettier", "prettier/react"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "globals": {
+    "google": true,
+    "ga": true
+  },
+  "rules": {
+    "linebreak-style": "off",
+    "comma-dangle": ["warn", "never"],
+    "arrow-body-style": "off",
+    "no-underscore-dangle": "off",
+    "jsx-a11y/label-has-for": [
+      "error",
+      {
+        "required": {
+          "every": ["id"]
+        }
+      }
+    ],
+    "react/button-has-type": "off",
+    "react/no-access-state-in-setstate": "off",
+    "react/destructuring-assignment": "off"
+  }
+}
