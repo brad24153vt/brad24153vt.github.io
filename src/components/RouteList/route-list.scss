@@ -1,0 +1,117 @@
+@use '../../stylesheets/variables' as v;
+
+#route-list-wrapper {
+  height: 100%;
+  background-color: v.$dark-grey;
+  flex: 0 1 auto;
+  overflow: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.route-element {
+  color: v.$text-color;
+  border-bottom: 1px v.$grey solid;
+}
+
+.delete-button {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 32px;
+  height: 32px;
+  margin-top: -16px;
+  padding: 0;
+  border: 0px;
+  background-color: inherit;
+  color: v.$light-grey;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  color: v.$text-color;
+}
+
+.collapsible-distance,
+.collapsible-airport,
+.sector-element,
+.total-distance,
+.non-stop-distance {
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.sector-elements-wrapper {
+  position: relative;
+}
+
+.sector-elements {
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 28px;
+  padding-left: 10px;
+}
+
+.airport-code {
+  font-weight: bold;
+}
+
+.distance-number {
+  float: right;
+  font-weight: bold;
+}
+
+.total-distance {
+  font-size: 13px;
+  background-color: v.$light-grey;
+}
+
+.collapsible {
+  font-size: 13px;
+}
+
+.collapsible-airport {
+  font-size: 14px;
+  background-color: v.$grey;
+  font-weight: bold;
+  padding: 6px;
+}
+
+.collapsible-name {
+  font-style: italic;
+}
+
+.collapsible-distance {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: v.$light-grey;
+}
+
+.collapsible-distance svg {
+  font-size: 20px;
+}
+
+.distance-label {
+  color: v.$dark-text-color;
+}
+
+.empty-message {
+  color: v.$text-color;
+  margin: 5px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#footer {
+  color: v.$text-color;
+  text-align: center;
+  padding: 2px;
+  font-size: 12px;
+  background: v.$dark-grey;
+}
