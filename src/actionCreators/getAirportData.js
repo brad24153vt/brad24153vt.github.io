@@ -7,7 +7,7 @@ export default function getAirportData() {
     const { airportData } = getState();
 
     if (airportData.length === 0) {
-      Papa.parse('public/airports.csv', {
+      Papa.parse('/public/airports.csv', {
         download: true,
         header: true,
         dynamicTyping: true,
