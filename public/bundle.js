@@ -52426,7 +52426,7 @@
                 value: function() {
                     var t = this.props.dispatch;
                     t(function(t, e) {
-                        0 === e().airportData.length && Qt().parse("/airports.csv", {
+                        0 === e().airportData.length && Qt().parse("airports.csv", {
                             download: !0,
                             header: !0,
                             dynamicTyping: !0,
