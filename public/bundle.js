@@ -52439,7 +52439,7 @@
                         })
                     }),
                     t(function(t) {
-                        te("/world-110m.json").then(function(t) {
+                        te("world-110m.json").then(function(t) {
                             return t.json()
                         }).then(function(e) {
                             var n, r;
