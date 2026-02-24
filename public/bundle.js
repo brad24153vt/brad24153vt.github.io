@@ -46877,11 +46877,7 @@
                         routes: null,
                         error: "Unable to parse input"
                     };
-                if (a)
-                    return {
-                        routes: null,
-                        error: "'".concat(a, "' is not a valid airport code")
-                    }
+                
             }
             var s = function(t, e) {
                 try {
