@@ -1,3 +1,4 @@
+id,name,city,iata,iaco,lat,lng
 1,BOAT,"Gaborone, Botswana",Gab,Gabo,-24.60647548,25.93221804
 2,BOAT,"Kabul, Afghanistan",Kab,Kabu,34.5328,69.1658
 3,BOAT,"Lower Hutt, New Zealand",Low,Lowe,-41.2167,174.9167
