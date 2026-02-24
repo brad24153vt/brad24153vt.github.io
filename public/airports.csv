@@ -73,7 +73,7 @@ id,name,city,iata,iaco,lat,lng
 72,HORSE,MMonkey Bay,MMO,MMON,-14.0667,34.9167
 73,HORSE,"Cesk Budejovice, Czechia",CES,CESK,48.98618147,14.46805977
 74,HORSE,Curico,CUR,CURI,-34.9854,-71.2394
-75,HORSE,"Ōkato, New Zealand",ŌKA,ŌKAT,-39.1910,173.8800
+75,HORSE,"Okato, New Zealand",OKA,OKAT,-39.1910,173.8800
 76,HORSE,"Sokodé, Togo",SOK,SOKO,8.9833,1.1333
 77,CAR,"Mosul, Iraq",MOS,MOSU,36.3667,43.1167
 78,CAR,Arzamas,ARZ,ARZA,55.3833,43.8000
@@ -83,10 +83,11 @@ id,name,city,iata,iaco,lat,lng
 82,CAR,"Giresun, Turkey",GIR,GIRE,40.9000,38.4167
 83,CAR,"Baku, Azerbaijan",BAK,BAKU,40.41038337,49.87823405
 84,CAR,"Surat, India",SUR,SURA,21.2050,72.8400
-85,CAR,"L'Ascension, Quebec, Canada",L'A,L'AS,46.5500,-74.8333
+85,CAR,"LAscension, Quebec, Canada",LAS,LASC,46.5500,-74.8333
 86,CAR,"Moora, Australia",MOO,MOOR,-30.60251889,115.9967742
 87,CAR,"Beatty, Nevada, United States",BEA,BEAT,36.9094,-116.7544
 88,CAR,#FIELD!,#FIELD!,#FIELD!,#FIELD!,#FIELD!
 89,CAR,Istanbul,IST,ISTA,41.0100,28.9603
 90,CAR,"Visby, Sweden",VIS,VISB,57.6290,18.3071
 91,CAR,"MMarquette, Michigan",MMA,MMAR,46.5436,-87.3956
+
