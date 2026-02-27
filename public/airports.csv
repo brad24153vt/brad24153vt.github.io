@@ -86,10 +86,11 @@ id,name,city,iata,iaco,lat,lng
 85,CAR,"LAscension, Quebec, Canada",LAS,LASC,46.5500,-74.8333
 86,CAR,"Moora, Australia",MOO,MOOR,-30.60251889,115.9967742
 87,CAR,"Beatty, Nevada, United States",BEA,BEAT,36.9094,-116.7544
-88,CAR,"Pula, Croatia",PUL,PULA,44.9,13.9
+88,CAR,"Mubi, Nigeria",MUB,MUBI,10.269014889264787,13.253556399473334
 89,CAR,Istanbul,IST,ISTA,41.0100,28.9603
 90,CAR,"Visby, Sweden",VIS,VISB,57.6290,18.3071
 91,CAR,"MMarquette, Michigan",MMA,MMAR,46.5436,-87.3956
+
 
 
 
