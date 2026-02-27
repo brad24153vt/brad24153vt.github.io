@@ -32,7 +32,7 @@ id,name,city,iata,iaco,lat,lng
 31,BOAT,Ilede La Possession,ILE,ILED,-46.40989449,51.75212957
 32,BOAT,"Tampa Bay, United States",TAM,TAMP,27.7625,-82.5458
 33,BOAT,"Thane, India",THA,THAN,19.1800,72.9633
-34,BOAT,"Armavir, Armenia,ARM,ARMA,40.156691725632825,44.03775218132952
+34,BOAT,"Armavir, Armenia",ARM,ARMA,40.156691725632825,44.03775218132952
 35,BOAT,"Tbilisi, Georgia",TBI,TBIL,41.73435429,44.80985094
 36,BOAT,"DeKalb, Illinois, United States",DEK,DEKA,41.9314,-88.7503
 37,BOAT,"Toad Suck, Arkansas",TOA,TOAD,35.0756,-92.5600
@@ -90,6 +90,7 @@ id,name,city,iata,iaco,lat,lng
 89,CAR,Istanbul,IST,ISTA,41.0100,28.9603
 90,CAR,"Visby, Sweden",VIS,VISB,57.6290,18.3071
 91,CAR,"MMarquette, Michigan",MMA,MMAR,46.5436,-87.3956
+
 
 
 
