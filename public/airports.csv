@@ -2,7 +2,7 @@ id,name,city,iata,iaco,lat,lng
 1,BOAT,"Gaborone, Botswana",GAB,GABO,-24.60647548,25.93221804
 2,BOAT,"Kabul, Afghanistan",KAB,KABU,34.5328,69.1658
 3,BOAT,"Lower Hutt, New Zealand",LOW,LOWE,-41.2167,174.9167
-4,BOAT,"Windsor, Ontario",WIN,WIND,42.29761026011067, -83.0154582208571
+4,BOAT,"Salina Turda, Romania",SAL,SALI,46.587845367312546, 23.787154220671418
 5,BOAT,"Sucre, Bolivia",SUC,SUCR,-19.0475,-65.2600
 6,BOAT,"Cairo, Egypt",CAI,CAIR,30.0444,31.2358
 7,BOAT,"Buffalo, New York",BUF,BUFF,42.8864,-78.8781
@@ -90,6 +90,7 @@ id,name,city,iata,iaco,lat,lng
 89,CAR,Istanbul,IST,ISTA,41.0100,28.9603
 90,CAR,"Visby, Sweden",VIS,VISB,57.6290,18.3071
 91,CAR,"MMarquette, Michigan",MMA,MMAR,46.5436,-87.3956
+
 
 
 
